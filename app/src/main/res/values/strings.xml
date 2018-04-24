@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PermissionsLabor</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+
+    <string name="dialogTitle">Figyelem!</string>
+    <string name="explanation">Az alkalmazásnak szüksége van az engedélyre a névjegyek beolvasásához!</string>
+    <string name="exit">Kilépés</string>
+    <string name="forward">Tovább</string>
+
+    <string name="explanation2">A hívás indításához engedélyre van szükség!</string>
+    <string name="explanation3">SMS küldéshez engedélyre van szükség!</string>
+    <string name="phoneCallPermissionResultSuccess">Engedély elfogadva, kérem érintse meg újra a névjegyet a híváshoz!</string>
+</resources>
